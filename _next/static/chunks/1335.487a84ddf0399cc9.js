@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[822],{41335:function(c,a,e){e.r(a),e.d(a,{idSvg:function(){return l}});var h=e(46877);let l=h.YP`<svg
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1335],{41335:function(c,a,e){e.r(a),e.d(a,{idSvg:function(){return l}});var h=e(46877);let l=h.YP`<svg
  xmlns="http://www.w3.org/2000/svg"
  width="28"
  height="28"
